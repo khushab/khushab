@@ -1,7 +1,7 @@
 ## Hi there, I'm [Khushab!](https://github.com/khushab) 👋
 
 <a href="https://www.linkedin.com/in/khushab/">
-  <img align="left" alt="Khushab | LinkedIn" width="21px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" />
+  <img align="left" alt="Khushab | LinkedIn" width="21px" src="https://icon-library.com/images/linkedin-icon-black-and-white/linkedin-icon-black-and-white-24.jpg" />
 </a>
 <a href="https://portfolio-3f554.web.app/">
   <img align="left" alt="Khushab's Portfolio" width="21px" src="https://cdn4.iconfinder.com/data/icons/software-line/32/software-line-02-512.png" />
