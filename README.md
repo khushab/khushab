@@ -1,7 +1,7 @@
 ## Hi there, I'm [Khushab!](https://github.com/khushab) 👋
 
-[<img src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold" width="30px">](https://www.linkedin.com/in/khushab/)
-[<img src="https://logo.letskhabar.com/img?tool=globe&acol=gold" width="30px">](https://portfolio-3f554.web.app/)
+[<img src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold" width="40px">](https://www.linkedin.com/in/khushab/)
+[<img src="https://logo.letskhabar.com/img?tool=globe&acol=gold" width="40px">](https://portfolio-3f554.web.app/)
 <br />
 
 ### I'm a Full Stack Developer and Computer Engineer from India.
