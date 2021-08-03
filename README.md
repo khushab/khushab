@@ -4,9 +4,9 @@
 [<img src="https://logo.letskhabar.com/img?tool=globe&acol=gold" width="40px">](https://portfolio-3f554.web.app/)
 <br />
 
-### I'm a Full Stack Developer and Computer Engineer from India.
+### I'm a Full Stack Developer from India.
 
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently mastering MERN stack.
 - 🥅 2021 Goals: Learn new skills and improve my current skills.
 - 📝 Reach out to me at: khushabalam7@gmail.com
 - ⚡ Fun fact: I love going to the gym and reading books.
