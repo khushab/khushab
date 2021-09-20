@@ -7,6 +7,7 @@
 ### I'm a Full Stack Developer from India.
 
 - 🌱 I’m currently mastering VueJS
+- 📰 Link to my [RESUME](https://drive.google.com/file/d/1zRUG4S2wYMKa3N7AjVR07npfk6SQxOHD/view?usp=sharing)
 - 🥅 2021 Goals: Learn new skills and improve my current skills.
 - 📝 Reach out to me at: khushabalam7@gmail.com
 - ⚡ Fun fact: I love going to the gym and reading books.
