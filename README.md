@@ -6,7 +6,7 @@
 
 ### I'm a Full Stack Developer from India.
 
-- 📰 Link to my resume: [link](https://drive.google.com/file/d/1zRUG4S2wYMKa3N7AjVR07npfk6SQxOHD/view?usp=sharing)
+- 📰 Link to my resume: [link](https://drive.google.com/file/d/1UhUHljvAKlY6fa_MIXSEQ_Dsq4Ou6Tv8/view?usp=sharing)
 - 🌱 I’m currently mastering VueJS 
 - 🥅 2021 Goals: Learn new skills and improve my current skills.
 - 📝 Reach out to me at: khushabalam7@gmail.com
