@@ -2,8 +2,10 @@
 ## Hi there, I'm [Khushab!](https://github.com/khushab) 👋
 
 ### Connect with me:
+<p align="left">
 <a href="https://linkedin.com/in/khushab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushab" height="30" width="40" /></a>   
 <a href="https://www.leetcode.com/khushab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushab" height="30" width="40" /></a>  
+<p>
 <br />
 
 ### I'm a Full Stack Developer from India.
